@@ -11,7 +11,7 @@ import pdfplumber
 load_dotenv()
 
 # Configure Google Gemini AI
-genai.configure(api_key='AIzaSyCcBV9wZzVgJhD-0WomsA5McovK95CKRXU')
+genai.configure(api_key='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
 
 # Function to extract text from PDF
 def extract_text_from_pdf(pdf_path):
